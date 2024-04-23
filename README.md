@@ -35,6 +35,7 @@ Name           | Address
 [Fragment](https://tonviewer.com/0:408da3b28b6c065a593e10391269baaa9c5f8caebc0c69d9f0aabbab2a99256b) | EQBAjaOyi2wGWlk-EDkSabqqnF-MrrwMadnwqrurKpkla9nE
 [Pavel Durov](https://tonviewer.com/0:d8cd999fb2b1b384e6ca254c3883375e23111a8b78c015b886286c31bf11e29d) | EQDYzZmfsrGzhObKJUw4gzdeIxEai3jAFbiGKGwxvxHinaPP
 [Notcoin](https://tonviewer.com/0:ed53bc999e5a4af69a3f9c3de5376f7d90c487e1528f331e716dbe85903d5112) | EQDtU7yZnlpK9po_nD3lN299kMSH4VKPMx5xbb6FkD1REsF3
+[NFTProject](https://tonviewer.com/0:a2e140aaba8e309d1940e98f5a46d96dd72c797707c42480912d5aa33b901034) | UQCi4UCquo4wnRlA6Y9aRtlt1yx5dwfEJICRLVqjO5AQNMqY
 
 
 ## NFT collections
@@ -271,6 +272,7 @@ Name           | Address
 [RED X](https://tonviewer.com/0:64d223a71babb8c95cdfe077d97fb106b9eb5688a6f2479180a4181b966786fa) | EQBk0iOnG6u4yVzf4HfZf7EGuetWiKbyR5GApBgblmeG-jPL
 [REKT](https://tonviewer.com/0:d012cae57f900b6bbf86a73da70caeaddf7d9b7324283f40731e3d8a293ad761) | EQDQEsrlf5ALa7-Gpz2nDK6t332bcyQoP0BzHj2KKTrXYVYB
 [Resistance Dog](https://tonviewer.com/0:59fdc69f3f20ebe4a513b3468dc61d194c3864a4464e3662c903648d1a52e6e0) | EQBZ_cafPyDr5KUTs0aNxh0ZTDhkpEZONmLJA2SNGlLm4Cko
+[Roach Coin Sniper](https://tonviewer.com/0:5c0c806c1b7f1726c3f1778fa47426e1bcdc1be396a1b2097c3a7b142b69261f) | EQBcDIBsG38XJsPxd4-kdCbhvNwb45ahsgl8OnsUK2kmH2Rt
 [Rocket Cats](https://tonviewer.com/0:0704f2f9439d6441632d22d4f76eeb9a0f3d2cfc1ab890dd7be3e44ab65a8ebb) | EQAHBPL5Q51kQWMtItT3buuaDz0s_Bq4kN174-RKtlqOu07o
 [Roosty](https://tonviewer.com/0:a785ec1fa456e5cda13ea50a57c4749180dcfb47f62b175628012f07169c1f1f) | EQCnhewfpFblzaE-pQpXxHSRgNz7R_YrF1YoAS8HFpwfH6XI
 [Rosecoin](https://tonviewer.com/0:5daf96fb72c65b5e10e7439537eb86e92f29477e4f0059cba0f13c21cc231572) | EQBdr5b7csZbXhDnQ5U364bpLylHfk8AWcug8TwhzCMVcvPA
