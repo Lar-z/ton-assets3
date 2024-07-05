@@ -1,0 +1,11 @@
+name: Aqua USD
+description: Aqua USD - Over-collateralized stablecoin.
+symbol: AquaUSD
+image: "https://app.aquaprotocol.xyz/assets/jetton-icon.png"
+address: "0:bdc5ef4c62cfdeb870e0ba08b4fedbf5bf52ef1096b3c48bb0e03616bd3f5368"
+decimals: 6
+websites:
+  - "https://aquaprotocol.xyz"
+social:
+  - "https://t.me/+8eZ6-Q-OVTEwMzky"
+  - "https://x.com/aquaprotocolxyz"
