@@ -295,3 +295,6 @@
 - address: "UQBAL11PT4vqewvVEbnTdxg0waIru7yKMmA16weqJPXJ-cql"
   name: "Crypto.com"
   require_memo: true
+- address: "UQB4K6XdxAqKqIM3pmT_oF5bOf0PUg8rQvC6NHuc1Y1P9Uuu"
+  name: "TON of LUCK"
+  require_memo: true
